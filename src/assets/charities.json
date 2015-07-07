@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Red Cross",
+    "followers": [],
+    "amount": 750,
+    "typicalSplit": 0
+  },
+  {
+    "name": "ASPCA",
+    "followers": [],
+    "amount": 875,
+    "typicalSplit": 0
+  },
+  {
+    "name": "Humane Society",
+    "followers": [],
+    "amount": 1250,
+    "typicalSplit": 60
+  },
+  {
+    "name": "UNICEF",
+    "followers": [],
+    "amount": 175,
+    "typicalSplit": 70
+  },
+  {
+    "name": "Habitat for Humanity",
+    "followers": [],
+    "amount": 300,
+    "typicalSplit": 30
+  },
+  {
+    "name": "Susan G. Komen Foundation to Fight Breast Cancer",
+    "followers": [],
+    "amount": 100,
+    "typicalSplit": 35
+  },
+  {
+    "name": "Amnesty International",
+    "followers": [],
+    "amount": 600,
+    "typicalSplit": 10
+  },
+  {
+    "name": "EFF",
+    "followers": [],
+    "amount": 175,
+    "typicalSplit": 25
+  },
+  {
+    "name": "Rainforest Action Network",
+    "followers": [],
+    "amount": 1375,
+    "typicalSplit": 0
+  },
+  {
+    "name": "San Francisco Children's Hospitol",
+    "followers": [],
+    "amount": 1750,
+    "typicalSplit": 15
+  },
+  {
+    "name": "San Francisco Homeless Shelter",
+    "followers": [],
+    "amount": 600,
+    "typicalSplit": 5
+  }
+]

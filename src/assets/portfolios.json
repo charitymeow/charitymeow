@@ -1,0 +1,231 @@
+[
+  {
+    "charities": [],
+    "followers": [
+      "aRealFarmer",
+      "nathan",
+      "bill",
+      "henna",
+      "max",
+      "catLady",
+      "richard",
+      "ian",
+      "hillary",
+      "aaron",
+      "tom",
+      "zach",
+      "rainforestluv"
+    ],
+    "amount": 175,
+    "typicalSplit": 20
+  },
+  {
+    "charities": [],
+    "followers": [
+      "aaron",
+      "nathan"
+    ],
+    "amount": 875,
+    "typicalSplit": 100
+  },
+  {
+    "charities": [],
+    "followers": [
+      "henna",
+      "catLady",
+      "harry",
+      "aaron",
+      "nathan",
+      "melinda",
+      "richard",
+      "hillary",
+      "john",
+      "tom",
+      "zach"
+    ],
+    "amount": 2000,
+    "typicalSplit": 90
+  },
+  {
+    "charities": [],
+    "followers": [
+      "nathan",
+      "melinda",
+      "ian",
+      "bill",
+      "aRealFarmer",
+      "henna",
+      "harry",
+      "catLady",
+      "tom",
+      "zach",
+      "rainforestluv",
+      "richard",
+      "max",
+      "hillary"
+    ],
+    "amount": 200,
+    "typicalSplit": 40
+  },
+  {
+    "charities": [],
+    "followers": [
+      "rainforestluv",
+      "melinda",
+      "bill",
+      "max",
+      "aRealFarmer",
+      "nathan",
+      "tom",
+      "catLady",
+      "aaron",
+      "henna",
+      "harry"
+    ],
+    "amount": 750,
+    "typicalSplit": 30
+  },
+  {
+    "charities": [],
+    "followers": [
+      "aRealFarmer",
+      "harry",
+      "zach"
+    ],
+    "amount": 2500,
+    "typicalSplit": 20
+  },
+  {
+    "charities": [],
+    "followers": [],
+    "amount": 200,
+    "typicalSplit": 30
+  },
+  {
+    "charities": [],
+    "followers": [
+      "ian",
+      "zach",
+      "catLady",
+      "hillary"
+    ],
+    "amount": 10,
+    "typicalSplit": 10
+  },
+  {
+    "charities": [],
+    "followers": [
+      "max",
+      "ian",
+      "henna",
+      "melinda"
+    ],
+    "amount": 2250,
+    "typicalSplit": 15
+  },
+  {
+    "charities": [],
+    "followers": [
+      "harry",
+      "hillary",
+      "richard",
+      "aaron",
+      "bill",
+      "ian",
+      "melinda",
+      "tom"
+    ],
+    "amount": 375,
+    "typicalSplit": 65
+  },
+  {
+    "charities": [],
+    "followers": [
+      "richard",
+      "henna",
+      "tom",
+      "max",
+      "rainforestluv",
+      "hillary",
+      "melinda",
+      "zach",
+      "ian",
+      "nathan",
+      "harry",
+      "aaron",
+      "aRealFarmer",
+      "catLady",
+      "john",
+      "bill"
+    ],
+    "amount": 1250,
+    "typicalSplit": 65
+  },
+  {
+    "charities": [],
+    "followers": [
+      "aaron",
+      "max",
+      "henna",
+      "catLady",
+      "hillary",
+      "rainforestluv",
+      "nathan",
+      "aRealFarmer",
+      "melinda",
+      "bill",
+      "richard",
+      "harry",
+      "zach",
+      "tom",
+      "john"
+    ],
+    "amount": 1375,
+    "typicalSplit": 70
+  },
+  {
+    "charities": [],
+    "followers": [
+      "henna",
+      "richard",
+      "ian",
+      "john",
+      "hillary",
+      "tom",
+      "zach",
+      "harry",
+      "rainforestluv",
+      "catLady",
+      "melinda",
+      "aRealFarmer",
+      "aaron",
+      "max",
+      "nathan",
+      "bill"
+    ],
+    "amount": 750,
+    "typicalSplit": 90
+  },
+  {
+    "charities": [],
+    "followers": [
+      "nathan",
+      "aRealFarmer",
+      "aaron",
+      "henna",
+      "ian",
+      "john",
+      "hillary",
+      "tom",
+      "melinda",
+      "bill",
+      "catLady",
+      "richard",
+      "rainforestluv",
+      "harry",
+      "zach"
+    ],
+    "amount": 200,
+    "typicalSplit": 90
+  }
+]

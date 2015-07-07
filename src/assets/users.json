@@ -1,0 +1,105 @@
+[
+  {
+    "name": "u",
+    "amount": 1000,
+    "charities": [],
+    "followers": [
+      "max",
+      "henna",
+      "zach",
+      "hillary",
+      "aaron",
+      "rainforestluv"
+    ]
+  },
+  {
+    "name": "s",
+    "amount": 35,
+    "charities": [],
+    "followers": [
+      "john",
+      "richard",
+      "max",
+      "rainforestluv"
+    ]
+  },
+  {
+    "name": "e",
+    "amount": 10,
+    "charities": [],
+    "followers": [
+      "melinda",
+      "aaron",
+      "max",
+      "tom"
+    ]
+  },
+  {
+    "name": "r",
+    "amount": 95,
+    "charities": [],
+    "followers": [
+      "tom"
+    ]
+  },
+  {
+    "name": "n",
+    "amount": 225,
+    "charities": [],
+    "followers": [
+      "catLady",
+      "henna",
+      "aRealFarmer",
+      "aaron",
+      "zach",
+      "richard",
+      "bill",
+      "tom"
+    ]
+  },
+  {
+    "name": "a",
+    "amount": 3,
+    "charities": [],
+    "followers": [
+      "harry",
+      "henna",
+      "john"
+    ]
+  },
+  {
+    "name": "m",
+    "amount": 18,
+    "charities": [],
+    "followers": [
+      "aaron",
+      "ian",
+      "aRealFarmer",
+      "zach",
+      "henna",
+      "melinda",
+      "tom"
+    ]
+  },
+  {
+    "name": "e",
+    "amount": 25,
+    "charities": [],
+    "followers": [
+      "richard",
+      "henna",
+      "rainforestluv",
+      "catLady",
+      "aRealFarmer"
+    ]
+  },
+  {
+    "name": "s",
+    "amount": 175,
+    "charities": [],
+    "followers": [
+      "richard",
+      "henna"
+    ]
+  }
+]
