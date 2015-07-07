@@ -59,6 +59,7 @@ var charityMap = {};
 
 var charityjson = _.map(charities, function(c) {
   var charityObject = {
+    type: "charity",
     name: c,
     followers: [],
     amount: _.shuffle(amounts)[0] * 5,
@@ -120,6 +121,7 @@ var userjson = _.map(usernames, function(username) {
   var splitAmounts = makeSplitAmounts(amount, split);
 
   return {
+    type: "user",
     name: username,
     amount: amount,
     charities: _.map(charityList, function(c, i) {
@@ -139,6 +141,7 @@ var portfoliojson = _.map(portfolios, function(category, name) {
   var followers = _(usernames).shuffle().take(_.random(usernames.length)).value();
 
   return {
+    type: "portfolio",
     name: name,
     category: category,
     charities: charityList,

@@ -1,4 +1,4 @@
-angular.module('ngBoilerplate.navbar', []).directive('navbar', function() {
+angular.module('charity-meow.navbar', []).directive('navbar', function() {
   return {
     restrict: 'E',
     controller: function($scope) {

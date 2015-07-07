@@ -1,9 +1,10 @@
-angular.module( 'ngBoilerplate', [
+angular.module( 'charity-meow', [
   'templates-app',
   'templates-common',
-  'ngBoilerplate.home',
-  'ngBoilerplate.about',
-  'ngBoilerplate.navbar',
+  'charity-meow.home',
+  'charity-meow.about',
+  'charity-meow.navbar',
+  'charity-meow.browse',
   'ui.router'
 ])
 
