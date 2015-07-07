@@ -76,7 +76,7 @@ function makeSplit(num) {
     if (left === 0) {
       return remaining * multiple;
     }
-    var splitChosen = lodash.random(Math.round(max / (left + 1)), max);
+    var splitChosen = _.random(Math.round(max / (left + 1)), max);
     remaining -= splitChosen;
     max = Math.min(max, remaining);
     return splitChosen * multiple;
@@ -84,19 +84,24 @@ function makeSplit(num) {
 }
 
 function makeSplitAmounts(total, split) {
-  total = total.toFixed(2);
+
+  if (_.isEmpty(split)) {
+    return [];
+  }
+
+  total = parseFloat(total.toFixed(2));
   var splitAmounts = _.map(split, function(v) {
-    return (v / 100 * amount).toFixed(2);
+    return parseFloat((v / 100 * total).toFixed(2));
   });
 
-  var sum = _.reduce(splitAmounts, function(t, v) {
+  var sum = parseFloat(_.reduce(splitAmounts, function(t, v) {
     return t + v
-  });
+  }).toFixed(2));
 
-  if (sum === 100) {
+  if (sum === total) {
     return splitAmounts;
   } else {
-    var diff = sum - 100;
+    var diff = sum - total;
     if (diff > 0) {
       splitAmounts[0] += diff;
     } else {
@@ -108,16 +113,16 @@ function makeSplitAmounts(total, split) {
 }
 
 var userjson = _.map('usernames', function(username) {
-  var charities = _(charities).shuffle().take(_.random(5)).value();
+  var charityList = _(charities).shuffle().take(_.random(5)).value();
   var followers = _(usernames).shuffle().take(_.random(10)).value();
   var amount = _.shuffle(amounts)[0];
-  var split = makeSplit(charities.length);
+  var split = makeSplit(charityList.length);
   var splitAmounts = makeSplitAmounts(amount, split);
 
   return {
     name: username,
     amount: amount,
-    charities: _.map(charities, function(c, i) {
+    charities: _.map(charityList, function(c, i) {
       charityMap[c].followers.push(username);
       return {
         name: c,
@@ -130,11 +135,13 @@ var userjson = _.map('usernames', function(username) {
 });
 
 var portfoliojson = _.map(portfolios, function(category, name) {
-  var charities = _(charities).shuffle().take(_.random(3, 5)).value();
+  var charityList = _(charities).shuffle().take(_.random(3, 5)).value();
   var followers = _(usernames).shuffle().take(_.random(usernames.length)).value();
 
   return {
-    charities: charities,
+    name: name,
+    category: category,
+    charities: charityList,
     followers: followers,
     amount: _.shuffle(amounts)[0] * 5,
     typicalSplit: _.random(20) * 5

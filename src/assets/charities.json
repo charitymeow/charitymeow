@@ -1,68 +1,93 @@
 [
   {
     "name": "Red Cross",
-    "followers": [],
-    "amount": 750,
-    "typicalSplit": 0
+    "followers": [
+      "s"
+    ],
+    "amount": 250,
+    "typicalSplit": 80
   },
   {
     "name": "ASPCA",
-    "followers": [],
-    "amount": 875,
-    "typicalSplit": 0
+    "followers": [
+      "u",
+      "r"
+    ],
+    "amount": 700,
+    "typicalSplit": 80
   },
   {
     "name": "Humane Society",
-    "followers": [],
-    "amount": 1250,
-    "typicalSplit": 60
+    "followers": [
+      "e",
+      "m"
+    ],
+    "amount": 300,
+    "typicalSplit": 95
   },
   {
     "name": "UNICEF",
-    "followers": [],
-    "amount": 175,
-    "typicalSplit": 70
+    "followers": [
+      "s",
+      "a"
+    ],
+    "amount": 1125,
+    "typicalSplit": 90
   },
   {
     "name": "Habitat for Humanity",
-    "followers": [],
-    "amount": 300,
-    "typicalSplit": 30
+    "followers": [
+      "s",
+      "e"
+    ],
+    "amount": 10,
+    "typicalSplit": 50
   },
   {
     "name": "Susan G. Komen Foundation to Fight Breast Cancer",
     "followers": [],
-    "amount": 100,
-    "typicalSplit": 35
+    "amount": 1000,
+    "typicalSplit": 5
   },
   {
     "name": "Amnesty International",
-    "followers": [],
-    "amount": 600,
-    "typicalSplit": 10
+    "followers": [
+      "u",
+      "s"
+    ],
+    "amount": 2500,
+    "typicalSplit": 100
   },
   {
     "name": "EFF",
     "followers": [],
-    "amount": 175,
-    "typicalSplit": 25
+    "amount": 75,
+    "typicalSplit": 75
   },
   {
     "name": "Rainforest Action Network",
-    "followers": [],
-    "amount": 1375,
-    "typicalSplit": 0
+    "followers": [
+      "m"
+    ],
+    "amount": 75,
+    "typicalSplit": 40
   },
   {
     "name": "San Francisco Children's Hospitol",
-    "followers": [],
+    "followers": [
+      "e",
+      "m"
+    ],
     "amount": 1750,
-    "typicalSplit": 15
+    "typicalSplit": 75
   },
   {
     "name": "San Francisco Homeless Shelter",
-    "followers": [],
-    "amount": 600,
-    "typicalSplit": 5
+    "followers": [
+      "s",
+      "a"
+    ],
+    "amount": 125,
+    "typicalSplit": 50
   }
 ]
