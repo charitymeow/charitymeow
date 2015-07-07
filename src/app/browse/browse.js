@@ -24,12 +24,11 @@ angular.module( 'charity-meow.browse', [
       });
       return m;
     }, {})).then(function(allData) {
-    var users = allData.users;
-    var charities = allData.charities;
-    var portfolios = allData.portfolios;
+    $scope.users = allData.users;
+    $scope.charities = allData.charities;
+    $scope.portfolios = allData.portfolios;
 
-      console.log("AD", allData);
-
+    console.log("ASDF");
   });
 
 })

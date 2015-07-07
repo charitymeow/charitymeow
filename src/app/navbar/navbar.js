@@ -16,6 +16,7 @@ angular.module('charity-meow.navbar', []).directive('navbar', function() {
           text: 'Browse Charities'
         },
         {
+          state: 'home',
           modal: 'signin',
           text: 'Sign In'
         }

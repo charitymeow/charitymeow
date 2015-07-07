@@ -1,13 +1,17 @@
 angular.module('charity-meow.browse.card', [])
 
 .directive('card', function() {
+  console.log("CARD");
     return {
-      restrict: 'A',
+      restrict: 'E',
       scope: {
         cardContent: '='
       },
-      template
-    }
+      templateUrl: 'browse/card/card.tpl.html',
+      controller: function( $scope ) {
+        console.log("CARD CONTENT", $scope.cardContent);
+      }
+    };
   })
 
 ;
