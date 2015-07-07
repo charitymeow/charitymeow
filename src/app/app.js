@@ -3,6 +3,7 @@ angular.module( 'ngBoilerplate', [
   'templates-common',
   'ngBoilerplate.home',
   'ngBoilerplate.about',
+  'ngBoilerplate.navbar',
   'ui.router'
 ])
 
@@ -22,4 +23,3 @@ angular.module( 'ngBoilerplate', [
 })
 
 ;
-
