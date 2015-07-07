@@ -1,5 +1,7 @@
 <div>
-  Type: {{cardContent.type}},
-  Name: {{cardContent.name}},
-  JSON: {{cardContent|json}}
+  <img ph-img="50x50" class="img-circle" /><span class="name"><strong>{{card.name}}</strong></span>
+  <div class="description" ph-txt="1s"></div>
+  <div class="followers">{{card.followers.length}} Followers</div>
+  <div ng-if="card.charities" class="charities">{{card.charities.length}} Charities</div>
+  <div class="amount"><span>{{card.type==="user"?"Gives":"Receives"}}</span> ${{card.amount}}</div>
 </div>

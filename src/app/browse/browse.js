@@ -27,8 +27,6 @@ angular.module( 'charity-meow.browse', [
     $scope.users = allData.users;
     $scope.charities = allData.charities;
     $scope.portfolios = allData.portfolios;
-
-    console.log("ASDF");
   });
 
 })

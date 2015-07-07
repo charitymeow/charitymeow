@@ -1,13 +1,18 @@
 <div class="row browse">
   <h1 class="page-header">
-    Test
+    Browse
   </h1>
-  <input ng-model="viewmodel.filter" />
+  <input placeholder="Search charities, portfolios, and users..." ng-model="viewmodel.filter" />
   <h2>Charities</h2>
-  <card card-content='{"type":"asdf"}'></card>
-  <!-- <card ng-repeat="charity in charities|filter:viewmodel.filter|limitTo:3" card-content='charity'></card>
+  <div ng-if="(charities|filter:viewmodel.filter).length === 0"><strong>No charities found.</strong></div>
+  <card ng-repeat="charity in charities|filter:viewmodel.filter|limitTo:3" card='charity'></card>
+  <div class="see-more" ng-if="(charities|filter:viewmodel.filter).length > 3"><a href>See more...</a></div>
   <h2>Portfolios</h2>
-  <card ng-repeat="portfolio in portfolios|filter:viewmodel.filter|limitTo:3" card-content='portfolio'></card>
+  <div ng-if="(portfolios|filter:viewmodel.filter).length === 0"><strong>No charities found.</strong></div>
+  <card ng-repeat="portfolio in portfolios|filter:viewmodel.filter|limitTo:3" card='portfolio'></card>
+  <div class="see-more" ng-if="(portfolios|filter:viewmodel.filter).length > 3"><a href>See more...</a></div>
   <h2>Users</h2>
-  <card ng-repeat="user in users|filter:viewmodel.filter|limitTo:3" card-content='user'></card> -->
+  <div ng-if="(users|filter:viewmodel.filter).length === 0"><strong>No charities found.</strong></div>
+  <card ng-repeat="user in users|filter:viewmodel.filter|limitTo:3" card='user'></card>
+  <div class="see-more" ng-if="(users|filter:viewmodel.filter).length > 3"><a href>See more...</a></div>
 </div>

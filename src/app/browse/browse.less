@@ -4,10 +4,30 @@ card {
     margin:10px;
   }
   float:left;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  padding: 10px;
+  height: 225px;
+  margin: 10px;
+  .name {
+    padding: 20px;
+  }
+  .description {
+    height: 60px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .followers,.charities,.amount {
+    width:80px;
+    float: left;
+  }
 }
 
 div.browse {
-  h2 {
+  div.see-more, h2 {
     clear: both;
+  }
+  input {
+    width: 80%;
   }
 }
