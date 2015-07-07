@@ -3,303 +3,286 @@
     "name": "Farm Focus",
     "category": "Preventing Cruelty to Animals",
     "charities": [
-      "ASPCA",
-      "San Francisco Children's Hospitol",
-      "Humane Society"
+      "Susan G. Komen Foundation to Fight Breast Cancer",
+      "UNICEF",
+      "Amnesty International"
     ],
     "followers": [
+      "ian",
       "harry",
-      "richard",
-      "aRealFarmer",
-      "melinda",
-      "tom",
       "max",
+      "bill",
+      "zach",
+      "melinda",
+      "rainforestluv",
+      "henna",
+      "john",
       "catLady"
     ],
-    "amount": 600,
-    "typicalSplit": 80
+    "amount": 90,
+    "typicalSplit": 0
   },
   {
     "name": "Pet Friendly",
     "category": "Preventing Cruelty to Animals",
     "charities": [
-      "Habitat for Humanity",
+      "San Francisco Homeless Shelter",
+      "EFF",
       "Amnesty International",
-      "Susan G. Komen Foundation to Fight Breast Cancer",
-      "San Francisco Homeless Shelter"
+      "San Francisco Children's Hospitol"
     ],
     "followers": [
+      "zach",
       "catLady",
-      "tom"
+      "tom",
+      "aRealFarmer",
+      "melinda",
+      "nathan",
+      "aaron",
+      "hillary",
+      "max"
     ],
-    "amount": 1125,
-    "typicalSplit": 25
+    "amount": 650,
+    "typicalSplit": 85
   },
   {
     "name": "Curing Preventable Diseases",
     "category": "World Health",
     "charities": [
+      "UNICEF",
       "EFF",
-      "Habitat for Humanity",
       "Red Cross",
-      "ASPCA"
+      "Amnesty International",
+      "Habitat for Humanity"
     ],
     "followers": [
-      "melinda",
-      "aRealFarmer"
+      "tom",
+      "henna",
+      "john",
+      "catLady",
+      "melinda"
     ],
-    "amount": 875,
-    "typicalSplit": 25
+    "amount": 475,
+    "typicalSplit": 45
   },
   {
     "name": "Cancer Research",
     "category": "World Health",
     "charities": [
-      "ASPCA",
+      "San Francisco Children's Hospitol",
       "Amnesty International",
-      "San Francisco Homeless Shelter",
-      "EFF",
-      "Susan G. Komen Foundation to Fight Breast Cancer"
+      "Susan G. Komen Foundation to Fight Breast Cancer",
+      "San Francisco Homeless Shelter"
     ],
     "followers": [
-      "tom",
-      "richard",
-      "ian",
-      "max",
-      "nathan",
+      "catLady",
       "zach",
-      "bill",
-      "hillary",
-      "harry",
-      "melinda",
-      "aaron",
       "rainforestluv",
-      "john"
+      "john",
+      "aaron",
+      "hillary",
+      "ian",
+      "harry",
+      "max",
+      "tom",
+      "bill",
+      "henna",
+      "richard",
+      "nathan",
+      "aRealFarmer",
+      "melinda"
     ],
-    "amount": 50,
-    "typicalSplit": 95
+    "amount": 100,
+    "typicalSplit": 60
   },
   {
     "name": "Rare Disease Research",
     "category": "World Health",
     "charities": [
-      "Rainforest Action Network",
-      "Amnesty International",
-      "UNICEF",
-      "Red Cross"
+      "ASPCA",
+      "San Francisco Homeless Shelter",
+      "San Francisco Children's Hospitol"
     ],
     "followers": [
-      "aRealFarmer",
-      "nathan",
-      "melinda",
-      "max",
-      "hillary",
-      "ian"
+      "zach",
+      "john"
     ],
-    "amount": 15,
-    "typicalSplit": 95
+    "amount": 75,
+    "typicalSplit": 90
   },
   {
     "name": "End Slavery Now",
     "category": "Children",
     "charities": [
-      "San Francisco Homeless Shelter",
-      "ASPCA",
-      "Rainforest Action Network",
-      "UNICEF"
+      "Amnesty International",
+      "EFF",
+      "San Francisco Children's Hospitol",
+      "Rainforest Action Network"
     ],
-    "followers": [],
-    "amount": 650,
-    "typicalSplit": 85
+    "followers": [
+      "zach",
+      "hillary",
+      "harry",
+      "melinda",
+      "john",
+      "richard",
+      "henna",
+      "bill",
+      "rainforestluv"
+    ],
+    "amount": 300,
+    "typicalSplit": 95
   },
   {
     "name": "Child Abuse Action",
     "category": "Children",
     "charities": [
-      "Habitat for Humanity",
-      "San Francisco Children's Hospitol",
+      "Amnesty International",
+      "San Francisco Homeless Shelter",
+      "Rainforest Action Network",
       "Susan G. Komen Foundation to Fight Breast Cancer"
     ],
     "followers": [
-      "max",
       "zach",
-      "catLady",
       "hillary",
-      "henna"
+      "aaron",
+      "richard",
+      "ian",
+      "melinda",
+      "harry"
     ],
-    "amount": 300,
-    "typicalSplit": 75
+    "amount": 125,
+    "typicalSplit": 55
   },
   {
     "name": "Ready Set Rainforest",
     "category": "Conservation",
     "charities": [
-      "San Francisco Children's Hospitol",
-      "Red Cross",
-      "Susan G. Komen Foundation to Fight Breast Cancer",
-      "San Francisco Homeless Shelter",
-      "Habitat for Humanity"
+      "ASPCA",
+      "UNICEF",
+      "Humane Society"
     ],
     "followers": [
-      "aRealFarmer",
-      "henna",
-      "bill",
-      "rainforestluv",
+      "harry",
       "tom",
-      "ian",
-      "aaron",
-      "nathan",
-      "john",
-      "max"
+      "henna",
+      "richard",
+      "zach",
+      "catLady",
+      "hillary",
+      "bill",
+      "john"
     ],
     "amount": 475,
-    "typicalSplit": 60
+    "typicalSplit": 95
   },
   {
     "name": "Greenhouse Gas Emissions",
     "category": "Conservation",
     "charities": [
-      "Susan G. Komen Foundation to Fight Breast Cancer",
-      "UNICEF",
-      "San Francisco Homeless Shelter"
+      "San Francisco Children's Hospitol",
+      "San Francisco Homeless Shelter",
+      "Susan G. Komen Foundation to Fight Breast Cancer"
     ],
     "followers": [
+      "ian",
       "nathan",
-      "henna",
-      "aaron",
-      "bill",
-      "richard",
-      "hillary",
-      "rainforestluv",
-      "max",
-      "catLady",
       "tom",
-      "aRealFarmer",
-      "harry",
-      "john",
-      "zach",
-      "melinda",
-      "ian"
+      "rainforestluv",
+      "catLady",
+      "max"
     ],
-    "amount": 50,
-    "typicalSplit": 40
+    "amount": 75,
+    "typicalSplit": 20
   },
   {
     "name": "Open Internet",
     "category": "Technology",
     "charities": [
-      "EFF",
-      "Amnesty International",
-      "Susan G. Komen Foundation to Fight Breast Cancer",
       "San Francisco Children's Hospitol",
-      "ASPCA"
+      "Amnesty International",
+      "UNICEF"
     ],
-    "followers": [
-      "bill",
-      "catLady",
-      "aRealFarmer",
-      "john",
-      "aaron",
-      "max",
-      "harry",
-      "nathan",
-      "zach",
-      "hillary",
-      "ian",
-      "tom",
-      "rainforestluv"
-    ],
-    "amount": 10,
-    "typicalSplit": 60
+    "followers": [],
+    "amount": 75,
+    "typicalSplit": 90
   },
   {
     "name": "Theater",
     "category": "The Arts",
     "charities": [
-      "Amnesty International",
-      "Susan G. Komen Foundation to Fight Breast Cancer",
-      "San Francisco Homeless Shelter"
+      "EFF",
+      "Rainforest Action Network",
+      "Susan G. Komen Foundation to Fight Breast Cancer"
     ],
-    "followers": [
-      "zach",
-      "ian",
-      "melinda"
-    ],
-    "amount": 175,
-    "typicalSplit": 55
+    "followers": [],
+    "amount": 5,
+    "typicalSplit": 60
   },
   {
     "name": "Fine Arts",
     "category": "The Arts",
     "charities": [
-      "San Francisco Children's Hospitol",
-      "UNICEF",
-      "Rainforest Action Network",
-      "ASPCA"
+      "San Francisco Homeless Shelter",
+      "Habitat for Humanity",
+      "Susan G. Komen Foundation to Fight Breast Cancer",
+      "ASPCA",
+      "San Francisco Children's Hospitol"
     ],
     "followers": [
-      "aRealFarmer",
-      "hillary",
-      "max",
-      "bill",
-      "henna",
+      "john",
       "melinda",
-      "harry"
+      "max",
+      "hillary",
+      "tom",
+      "henna",
+      "nathan",
+      "catLady",
+      "ian"
     ],
-    "amount": 1500,
-    "typicalSplit": 80
+    "amount": 650,
+    "typicalSplit": 40
   },
   {
     "name": "San Francisco",
     "category": "Local",
     "charities": [
-      "EFF",
-      "Amnesty International",
+      "Red Cross",
       "Humane Society",
-      "Susan G. Komen Foundation to Fight Breast Cancer"
+      "San Francisco Homeless Shelter",
+      "Amnesty International",
+      "Rainforest Action Network"
     ],
     "followers": [
-      "catLady",
-      "max",
-      "ian",
-      "zach",
-      "hillary",
       "aaron",
-      "melinda",
       "aRealFarmer",
-      "henna",
-      "harry",
-      "tom",
-      "richard",
-      "bill",
-      "rainforestluv",
-      "john",
-      "nathan"
+      "tom"
     ],
-    "amount": 10,
-    "typicalSplit": 70
+    "amount": 1375,
+    "typicalSplit": 0
   },
   {
     "name": "New York",
     "category": "Local",
     "charities": [
+      "Rainforest Action Network",
       "Susan G. Komen Foundation to Fight Breast Cancer",
-      "San Francisco Children's Hospitol",
-      "Red Cross"
+      "EFF",
+      "Humane Society"
     ],
     "followers": [
-      "zach",
-      "catLady",
-      "bill",
-      "nathan",
-      "harry",
-      "henna",
-      "aRealFarmer",
+      "john",
       "rainforestluv",
-      "hillary",
-      "melinda"
+      "melinda",
+      "aRealFarmer",
+      "ian",
+      "nathan",
+      "richard",
+      "max",
+      "henna",
+      "tom"
     ],
-    "amount": 125,
-    "typicalSplit": 85
+    "amount": 1500,
+    "typicalSplit": 30
   }
 ]

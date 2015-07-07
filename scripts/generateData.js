@@ -112,7 +112,7 @@ function makeSplitAmounts(total, split) {
   }
 }
 
-var userjson = _.map('usernames', function(username) {
+var userjson = _.map(usernames, function(username) {
   var charityList = _(charities).shuffle().take(_.random(5)).value();
   var followers = _(usernames).shuffle().take(_.random(10)).value();
   var amount = _.shuffle(amounts)[0];

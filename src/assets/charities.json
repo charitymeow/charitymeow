@@ -2,92 +2,122 @@
   {
     "name": "Red Cross",
     "followers": [
-      "s"
+      "max",
+      "hillary",
+      "bill",
+      "tom"
     ],
-    "amount": 250,
-    "typicalSplit": 80
+    "amount": 10,
+    "typicalSplit": 65
   },
   {
     "name": "ASPCA",
     "followers": [
-      "u",
-      "r"
+      "nathan",
+      "zach",
+      "melinda",
+      "john",
+      "richard",
+      "rainforestluv"
     ],
-    "amount": 700,
-    "typicalSplit": 80
+    "amount": 75,
+    "typicalSplit": 60
   },
   {
     "name": "Humane Society",
     "followers": [
-      "e",
-      "m"
+      "bill",
+      "catLady"
     ],
     "amount": 300,
-    "typicalSplit": 95
+    "typicalSplit": 45
   },
   {
     "name": "UNICEF",
     "followers": [
-      "s",
-      "a"
+      "aaron",
+      "hillary",
+      "melinda",
+      "richard",
+      "catLady"
     ],
-    "amount": 1125,
-    "typicalSplit": 90
+    "amount": 125,
+    "typicalSplit": 45
   },
   {
     "name": "Habitat for Humanity",
     "followers": [
-      "s",
-      "e"
+      "hillary",
+      "bill",
+      "melinda",
+      "tom",
+      "rainforestluv"
     ],
-    "amount": 10,
+    "amount": 2000,
     "typicalSplit": 50
   },
   {
     "name": "Susan G. Komen Foundation to Fight Breast Cancer",
-    "followers": [],
-    "amount": 1000,
-    "typicalSplit": 5
+    "followers": [
+      "max",
+      "melinda",
+      "richard",
+      "catLady"
+    ],
+    "amount": 2000,
+    "typicalSplit": 10
   },
   {
     "name": "Amnesty International",
     "followers": [
-      "u",
-      "s"
+      "john",
+      "tom",
+      "richard",
+      "rainforestluv"
     ],
-    "amount": 2500,
-    "typicalSplit": 100
+    "amount": 875,
+    "typicalSplit": 15
   },
   {
     "name": "EFF",
     "followers": [],
-    "amount": 75,
+    "amount": 90,
     "typicalSplit": 75
   },
   {
     "name": "Rainforest Action Network",
     "followers": [
-      "m"
+      "zach",
+      "hillary",
+      "bill",
+      "rainforestluv"
     ],
-    "amount": 75,
-    "typicalSplit": 40
+    "amount": 300,
+    "typicalSplit": 0
   },
   {
     "name": "San Francisco Children's Hospitol",
     "followers": [
-      "e",
-      "m"
+      "nathan",
+      "hillary",
+      "melinda",
+      "tom",
+      "richard",
+      "catLady"
     ],
-    "amount": 1750,
-    "typicalSplit": 75
+    "amount": 75,
+    "typicalSplit": 5
   },
   {
     "name": "San Francisco Homeless Shelter",
     "followers": [
-      "s",
-      "a"
+      "aaron",
+      "zach",
+      "tom",
+      "rainforestluv",
+      "catLady"
     ],
-    "amount": 125,
-    "typicalSplit": 50
+    "amount": 75,
+    "typicalSplit": 100
   }
 ]

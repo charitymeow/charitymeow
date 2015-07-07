@@ -1,205 +1,454 @@
 [
   {
-    "name": "u",
-    "amount": 40,
+    "name": "max",
+    "amount": 50,
     "charities": [
       {
-        "name": "ASPCA",
-        "percent": 90,
-        "splitAmounts": 36
-      },
-      {
-        "name": "Amnesty International",
-        "percent": 10,
-        "splitAmounts": 4
-      }
-    ],
-    "followers": [
-      "tom",
-      "aaron",
-      "john",
-      "rainforestluv",
-      "henna",
-      "catLady",
-      "richard"
-    ]
-  },
-  {
-    "name": "s",
-    "amount": 500,
-    "charities": [
-      {
-        "name": "Habitat for Humanity",
-        "percent": 35,
-        "splitAmounts": 175
+        "name": "Susan G. Komen Foundation to Fight Breast Cancer",
+        "percent": 50,
+        "splitAmounts": 25
       },
       {
         "name": "Red Cross",
-        "percent": 35,
-        "splitAmounts": 175
-      },
-      {
-        "name": "San Francisco Homeless Shelter",
-        "percent": 20,
-        "splitAmounts": 100
-      },
-      {
-        "name": "UNICEF",
-        "percent": 5,
-        "splitAmounts": 25
-      },
-      {
-        "name": "Amnesty International",
-        "percent": 5,
+        "percent": 50,
         "splitAmounts": 25
       }
     ],
     "followers": [
-      "henna",
-      "zach",
-      "ian",
-      "catLady",
-      "max"
+      "rainforestluv",
+      "melinda",
+      "john",
+      "max",
+      "bill"
     ]
   },
   {
-    "name": "e",
-    "amount": 1,
+    "name": "nathan",
+    "amount": 10,
     "charities": [
-      {
-        "name": "Habitat for Humanity",
-        "percent": 45,
-        "splitAmounts": 0.45
-      },
       {
         "name": "San Francisco Children's Hospitol",
-        "percent": 35,
-        "splitAmounts": 0.35
+        "percent": 100,
+        "splitAmounts": 10
       },
-      {
-        "name": "Humane Society",
-        "percent": 20,
-        "splitAmounts": 0.2
-      }
-    ],
-    "followers": [
-      "henna",
-      "nathan",
-      "richard",
-      "aaron",
-      "harry",
-      "tom"
-    ]
-  },
-  {
-    "name": "r",
-    "amount": 250,
-    "charities": [
       {
         "name": "ASPCA",
-        "percent": 100,
-        "splitAmounts": 250
-      }
-    ],
-    "followers": [
-      "nathan",
-      "catLady",
-      "zach",
-      "richard",
-      "henna",
-      "aRealFarmer"
-    ]
-  },
-  {
-    "name": "n",
-    "amount": 95,
-    "charities": [],
-    "followers": [
-      "zach",
-      "catLady"
-    ]
-  },
-  {
-    "name": "a",
-    "amount": 175,
-    "charities": [
-      {
-        "name": "San Francisco Homeless Shelter",
-        "percent": 50,
-        "splitAmounts": 87.5
-      },
-      {
-        "name": "UNICEF",
-        "percent": 50,
-        "splitAmounts": 87.5
-      }
-    ],
-    "followers": []
-  },
-  {
-    "name": "m",
-    "amount": 750,
-    "charities": [
-      {
-        "name": "Humane Society",
-        "percent": 65,
-        "splitAmounts": 487.5
-      },
-      {
-        "name": "Rainforest Action Network",
-        "percent": 35,
-        "splitAmounts": 262.5
-      },
-      {
-        "name": "San Francisco Children's Hospitol",
         "percent": 0,
         "splitAmounts": 0
       }
     ],
     "followers": [
+      "tom",
       "catLady",
+      "aRealFarmer",
+      "henna",
+      "harry",
+      "bill",
+      "zach",
+      "nathan",
+      "john"
+    ]
+  },
+  {
+    "name": "henna",
+    "amount": 95,
+    "charities": [],
+    "followers": [
+      "melinda",
+      "richard"
+    ]
+  },
+  {
+    "name": "aaron",
+    "amount": 100,
+    "charities": [
+      {
+        "name": "San Francisco Homeless Shelter",
+        "percent": 50,
+        "splitAmounts": 50
+      },
+      {
+        "name": "UNICEF",
+        "percent": 50,
+        "splitAmounts": 50
+      }
+    ],
+    "followers": [
+      "richard",
+      "catLady",
+      "ian",
+      "nathan",
+      "max",
       "zach",
       "hillary",
-      "aaron",
-      "rainforestluv",
       "harry",
-      "henna",
-      "aRealFarmer",
+      "bill",
+      "henna"
+    ]
+  },
+  {
+    "name": "ian",
+    "amount": 4,
+    "charities": [],
+    "followers": [
+      "zach",
+      "ian",
+      "catLady",
+      "rainforestluv"
+    ]
+  },
+  {
+    "name": "zach",
+    "amount": 3,
+    "charities": [
+      {
+        "name": "Rainforest Action Network",
+        "percent": 45,
+        "splitAmounts": 1.35
+      },
+      {
+        "name": "ASPCA",
+        "percent": 45,
+        "splitAmounts": 1.35
+      },
+      {
+        "name": "San Francisco Homeless Shelter",
+        "percent": 10,
+        "splitAmounts": 0.3
+      }
+    ],
+    "followers": [
+      "melinda",
+      "bill",
+      "ian",
       "richard",
+      "max",
+      "harry",
+      "john",
+      "aRealFarmer"
+    ]
+  },
+  {
+    "name": "hillary",
+    "amount": 2,
+    "charities": [
+      {
+        "name": "Rainforest Action Network",
+        "percent": 40,
+        "splitAmounts": 0.8
+      },
+      {
+        "name": "San Francisco Children's Hospitol",
+        "percent": 30,
+        "splitAmounts": 0.6
+      },
+      {
+        "name": "UNICEF",
+        "percent": 25,
+        "splitAmounts": 0.5
+      },
+      {
+        "name": "Red Cross",
+        "percent": 5,
+        "splitAmounts": 0.1
+      },
+      {
+        "name": "Habitat for Humanity",
+        "percent": 0,
+        "splitAmounts": 0
+      }
+    ],
+    "followers": []
+  },
+  {
+    "name": "bill",
+    "amount": 40,
+    "charities": [
+      {
+        "name": "Rainforest Action Network",
+        "percent": 50,
+        "splitAmounts": 20
+      },
+      {
+        "name": "Habitat for Humanity",
+        "percent": 30,
+        "splitAmounts": 12
+      },
+      {
+        "name": "Red Cross",
+        "percent": 20,
+        "splitAmounts": 8
+      },
+      {
+        "name": "Humane Society",
+        "percent": 0,
+        "splitAmounts": 0
+      }
+    ],
+    "followers": [
+      "john",
+      "nathan",
+      "richard",
+      "hillary",
+      "max",
+      "zach",
+      "rainforestluv",
+      "tom",
+      "ian",
+      "harry"
+    ]
+  },
+  {
+    "name": "melinda",
+    "amount": 175,
+    "charities": [
+      {
+        "name": "Susan G. Komen Foundation to Fight Breast Cancer",
+        "percent": 35,
+        "splitAmounts": 61.25
+      },
+      {
+        "name": "ASPCA",
+        "percent": 30,
+        "splitAmounts": 52.5
+      },
+      {
+        "name": "Habitat for Humanity",
+        "percent": 15,
+        "splitAmounts": 26.25
+      },
+      {
+        "name": "UNICEF",
+        "percent": 10,
+        "splitAmounts": 17.5
+      },
+      {
+        "name": "San Francisco Children's Hospitol",
+        "percent": 10,
+        "splitAmounts": 17.5
+      }
+    ],
+    "followers": []
+  },
+  {
+    "name": "john",
+    "amount": 250,
+    "charities": [
+      {
+        "name": "ASPCA",
+        "percent": 75,
+        "splitAmounts": 187.5
+      },
+      {
+        "name": "Amnesty International",
+        "percent": 25,
+        "splitAmounts": 62.5
+      }
+    ],
+    "followers": [
+      "nathan",
+      "max",
+      "catLady",
+      "rainforestluv",
       "bill"
     ]
   },
   {
-    "name": "e",
-    "amount": 2,
-    "charities": [],
+    "name": "tom",
+    "amount": 95,
+    "charities": [
+      {
+        "name": "Red Cross",
+        "percent": 35,
+        "splitAmounts": 33.25
+      },
+      {
+        "name": "San Francisco Homeless Shelter",
+        "percent": 30,
+        "splitAmounts": 28.5
+      },
+      {
+        "name": "Habitat for Humanity",
+        "percent": 25,
+        "splitAmounts": 23.75
+      },
+      {
+        "name": "San Francisco Children's Hospitol",
+        "percent": 10,
+        "splitAmounts": 9.5
+      },
+      {
+        "name": "Amnesty International",
+        "percent": 0,
+        "splitAmounts": 0
+      }
+    ],
     "followers": [
-      "nathan",
-      "richard",
-      "catLady",
-      "aRealFarmer",
-      "rainforestluv",
-      "zach",
-      "hillary",
       "aaron",
+      "zach",
       "john",
+      "harry",
+      "bill",
+      "melinda",
+      "nathan",
+      "rainforestluv",
+      "richard",
+      "max"
+    ]
+  },
+  {
+    "name": "richard",
+    "amount": 1,
+    "charities": [
+      {
+        "name": "San Francisco Children's Hospitol",
+        "percent": 40,
+        "splitAmounts": 0.4
+      },
+      {
+        "name": "ASPCA",
+        "percent": 25,
+        "splitAmounts": 0.25
+      },
+      {
+        "name": "Amnesty International",
+        "percent": 20,
+        "splitAmounts": 0.2
+      },
+      {
+        "name": "Susan G. Komen Foundation to Fight Breast Cancer",
+        "percent": 15,
+        "splitAmounts": 0.15
+      },
+      {
+        "name": "UNICEF",
+        "percent": 0,
+        "splitAmounts": 0
+      }
+    ],
+    "followers": [
+      "ian",
+      "bill",
+      "rainforestluv",
+      "nathan",
+      "catLady",
       "tom"
     ]
   },
   {
-    "name": "s",
-    "amount": 95,
+    "name": "harry",
+    "amount": 20,
     "charities": [],
     "followers": [
-      "bill",
-      "john",
+      "aRealFarmer",
+      "tom",
+      "hillary",
       "catLady",
+      "melinda",
+      "ian",
+      "aaron",
+      "henna",
+      "harry",
+      "richard"
+    ]
+  },
+  {
+    "name": "rainforestluv",
+    "amount": 1,
+    "charities": [
+      {
+        "name": "ASPCA",
+        "percent": 40,
+        "splitAmounts": 0.4
+      },
+      {
+        "name": "Habitat for Humanity",
+        "percent": 20,
+        "splitAmounts": 0.2
+      },
+      {
+        "name": "Rainforest Action Network",
+        "percent": 15,
+        "splitAmounts": 0.15
+      },
+      {
+        "name": "San Francisco Homeless Shelter",
+        "percent": 15,
+        "splitAmounts": 0.15
+      },
+      {
+        "name": "Amnesty International",
+        "percent": 10,
+        "splitAmounts": 0.1
+      }
+    ],
+    "followers": [
       "rainforestluv",
+      "bill",
+      "melinda",
+      "henna",
+      "john",
+      "ian",
+      "harry",
+      "tom"
+    ]
+  },
+  {
+    "name": "aRealFarmer",
+    "amount": 225,
+    "charities": [],
+    "followers": [
+      "hillary",
+      "tom",
+      "henna",
+      "melinda",
+      "max",
+      "richard",
       "aaron",
       "harry",
-      "nathan",
+      "catLady"
+    ]
+  },
+  {
+    "name": "catLady",
+    "amount": 130,
+    "charities": [
+      {
+        "name": "San Francisco Homeless Shelter",
+        "percent": 40,
+        "splitAmounts": 52
+      },
+      {
+        "name": "UNICEF",
+        "percent": 30,
+        "splitAmounts": 39
+      },
+      {
+        "name": "San Francisco Children's Hospitol",
+        "percent": 10,
+        "splitAmounts": 13
+      },
+      {
+        "name": "Humane Society",
+        "percent": 10,
+        "splitAmounts": 13
+      },
+      {
+        "name": "Susan G. Komen Foundation to Fight Breast Cancer",
+        "percent": 10,
+        "splitAmounts": 13
+      }
+    ],
+    "followers": [
+      "aaron",
+      "catLady",
+      "john",
+      "bill",
       "tom",
-      "hillary"
+      "zach",
+      "harry",
+      "aRealFarmer",
+      "max"
     ]
   }
 ]
